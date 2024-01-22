@@ -11,4 +11,4 @@ public record Task
     public string Name { get; init; }
 
     public Guid Id { get; init; }
-};
+}
